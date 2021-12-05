@@ -1,7 +1,7 @@
 **CACHE COMPRESSION: BASE-DELTA-IMMEDIATE ALGO**
 <br/>
 <br/>
-![img](https://askleo.askleomedia.com/wp-content/uploads/2013/11/cache.jpg)
+![img](https://aist.global/storage/article/11/1609336106850843752.jpg)
 <br/>
 <br/>
 *Implementation of BDI cache line compression algorithm. Code was used to gather performance metrics on the algorithm*
